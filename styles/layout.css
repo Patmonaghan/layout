@@ -2,7 +2,7 @@
     width:500px;
       margin: 0 auto 0 auto;
       border:1px solid #000000;
-}
+     }
 .main {
     border:1px solid #000;
 }
@@ -15,6 +15,9 @@ nav, aside{
 }
 article{
     width:300px;
+    text-align:left;
+    margin:10px;
+    border:2px solid #777;
 }
 .bottom { 
 
